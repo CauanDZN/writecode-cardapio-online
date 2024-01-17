@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.cauandzn.writecode"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.cauandzn.writecode"
