@@ -75,3 +75,40 @@ Os tópicos de avaliação variam de acordo com a escolha do aluno:
 - Tratamento de dados em caso de crash da aplicação (0,5 pontos) - Back.
 
 **Observação:** A versão completa da aplicação terá um peso maior na pontuação total.
+
+### Pré-requisitos
+
+Antes de começar, certifique-se de ter os seguintes pré-requisitos:
+
+1. Conhecimento básico de programação em Java para Android.
+2. Ambiente de desenvolvimento Android Studio instalado na sua máquina.
+3. Dispositivo Android para testar o aplicativo ou um emulador configurado.
+
+### Instalação
+
+Para baixar e executar o projeto em sua máquina, siga estes passos:
+
+1. Clone o repositório do GitHub:
+
+    ```bash
+    git clone https://github.com/CauanDZN/writecode-cardapio-online.git
+    ```
+
+2. Abra o Android Studio e importe o projeto.
+
+3. Aguarde o Android Studio sincronizar e baixar as dependências necessárias.
+
+4. Conecte um dispositivo Android ou inicie um emulador para testar o aplicativo.
+
+5. Execute o aplicativo pressionando o botão "Run" no Android Studio.
+
+### Contribuição
+
+Se você deseja contribuir com o desenvolvimento do aplicativo, siga estas etapas:
+
+1. Faça um fork do repositório.
+2. Crie uma nova branch para a sua feature (`git checkout -b feature/nova-feature`).
+3. Faça suas alterações e adições no código.
+4. Faça commit das suas alterações (`git commit -am 'Adicione uma nova feature'`).
+5. Faça push para a sua branch (`git push origin feature/nova-feature`).
+6. Abra um Pull Request no repositório original.
